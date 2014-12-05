@@ -1,4 +1,4 @@
-CodeIgniter 2.2 Session Class using native php $_SESSION[]
+CodeIgniter 2.2 Session Class using native php sessions
 ====================================
 
 Updated Library class for handling Sessions natively instead of cookie based for Codeigniter 2.2
