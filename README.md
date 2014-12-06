@@ -5,7 +5,7 @@ Updated Library class for handling Sessions natively instead of cookie based for
 
 Place in your <b>application/library/</b> 
 
-Will run as instead of your system class in 2.2
+It should load instead of your system class in 2.2 if named the same. 
 
 Comments in code show changed areas from Cookie to Native Sessions for PHP
 
